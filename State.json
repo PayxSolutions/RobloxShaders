@@ -1,0 +1,11 @@
+{
+  "ShowFFlagEditorWarning": true,
+  "PlayerVersionGuid": "version-43ad1853ad91427d",
+  "StudioVersionGuid": "",
+  "PlayerSize": 445868,
+  "StudioSize": 0,
+  "ModManifest": [
+    "ClientSettings\\ClientAppSettings.json",
+    "content\\sounds\\ouch.ogg"
+  ]
+}
